@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: ds-service
+Version: 1.0
+Summary: DS Service with LangChain and Groq integration
+Author: Zaheer87
+Author-email: 
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11.4,<3.12
